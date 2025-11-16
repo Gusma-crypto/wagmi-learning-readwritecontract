@@ -1,5 +1,8 @@
 # LATIHAN WAGMI - PROJECT
 
+Ini adalah hasil belajar saya membuat komponen React:
+
+![Learn Wagmi Connect and Read Smart Contract](sc/sc1.png)
 ## LATIHAN 1 (WALLET)
 1. membuat button connect dan disconnect [done]
 2. Menampilkan balance ETH / token [done]
